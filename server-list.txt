@@ -1,0 +1,3 @@
+serverName1,resourceGroup1
+serverName2,resourceGroup2
+serverName3,resourceGroup3ß
